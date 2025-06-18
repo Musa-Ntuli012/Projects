@@ -1,0 +1,90 @@
+@model NewsAPI.Models.NewsResponse
+@{
+    ViewData["Title"] = "News Headlines";
+}
+
+<div class="container mt-4">
+    @if (TempData["Error"] != null)
+    {
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            @TempData["Error"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+
+    @if (Model != null)
+    {
+        <div class="alert alert-info">
+            Debug Info:
+            <ul>
+                <li>Status: @Model.Status</li>
+                <li>Total Results: @Model.TotalResults</li>
+                <li>Articles Count: @(Model.Articles?.Count ?? 0)</li>
+            </ul>
+        </div>
+    }
+
+    <div class="row mb-4">
+        <div class="col">
+            <h1>Latest News</h1>
+        </div>
+        <div class="col-md-4">
+            <form asp-action="Search" method="get" class="d-flex">
+                <input type="text" name="query" class="form-control me-2" placeholder="Search news...">
+                <button type="submit" class="btn btn-primary">Search</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-3">
+            <div class="list-group">
+                <a href="@Url.Action("Category", new { category = "business" })" class="list-group-item list-group-item-action">Business</a>
+                <a href="@Url.Action("Category", new { category = "technology" })" class="list-group-item list-group-item-action">Technology</a>
+                <a href="@Url.Action("Category", new { category = "sports" })" class="list-group-item list-group-item-action">Sports</a>
+                <a href="@Url.Action("Category", new { category = "entertainment" })" class="list-group-item list-group-item-action">Entertainment</a>
+                <a href="@Url.Action("Category", new { category = "health" })" class="list-group-item list-group-item-action">Health</a>
+                <a href="@Url.Action("Category", new { category = "science" })" class="list-group-item list-group-item-action">Science</a>
+            </div>
+        </div>
+
+        <div class="col-md-9">
+            @if (Model?.Articles != null && Model.Articles.Any())
+            {
+                foreach (var article in Model.Articles)
+                {
+                    <div class="card mb-4">
+                        <div class="row g-0">
+                            @if (!string.IsNullOrEmpty(article.ImageUrl))
+                            {
+                                <div class="col-md-4">
+                                    <img src="@article.ImageUrl" class="img-fluid rounded-start" alt="@article.Title">
+                                </div>
+                            }
+                            <div class="col-md-@(string.IsNullOrEmpty(article.ImageUrl) ? "12" : "8")">
+                                <div class="card-body">
+                                    <h5 class="card-title">@article.Title</h5>
+                                    <p class="card-text">@article.Description</p>
+                                    <p class="card-text">
+                                        <small class="text-muted">
+                                            By @(string.IsNullOrEmpty(article.Author) ? "Unknown" : article.Author) | 
+                                            @article.Source?.Name | 
+                                            @article.PublishedAt.ToString("MMM dd, yyyy")
+                                        </small>
+                                    </p>
+                                    <a href="@article.Url" target="_blank" class="btn btn-primary">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+            else
+            {
+                <div class="alert alert-info">
+                    No news articles found.
+                </div>
+            }
+        </div>
+    </div>
+</div> 

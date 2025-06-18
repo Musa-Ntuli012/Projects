@@ -1,0 +1,52 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Helper functions
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+    
+    function isManager() {
+      return isAuthenticated() && 
+        get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'manager';
+    }
+    
+    function isFrontPacker() {
+      return isAuthenticated() && 
+        get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'front_packer';
+    }
+    
+    function isBackPacker() {
+      return isAuthenticated() && 
+        get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'back_packer';
+    }
+
+    // Users collection
+    match /users/{userId} {
+      allow read: if isAuthenticated();
+      allow write: if isManager();
+    }
+
+    // Inventory collection
+    match /inventory/{itemId} {
+      allow read: if isAuthenticated();
+      allow create: if isManager();
+      allow update: if isManager() || isFrontPacker() || isBackPacker();
+      allow delete: if isManager();
+    }
+
+    // Stock movements collection
+    match /stock_movements/{movementId} {
+      allow read: if isAuthenticated();
+      allow create: if isAuthenticated();
+      allow update: if isManager() || isFrontPacker();
+      allow delete: if isManager();
+    }
+
+    // Default deny
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+} 

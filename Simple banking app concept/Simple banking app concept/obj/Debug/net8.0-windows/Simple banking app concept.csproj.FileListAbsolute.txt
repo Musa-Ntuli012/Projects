@@ -1,0 +1,73 @@
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Simple banking app concept_MarkupCompile.cache
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\bin\Debug\net8.0-windows\Simple banking app concept.exe
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\bin\Debug\net8.0-windows\Simple banking app concept.deps.json
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\bin\Debug\net8.0-windows\Simple banking app concept.runtimeconfig.json
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\bin\Debug\net8.0-windows\Simple banking app concept.dll
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\bin\Debug\net8.0-windows\Simple banking app concept.pdb
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Simple banking app concept.g.resources
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Simple banking app concept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Simple banking app concept.AssemblyInfoInputs.cache
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Simple banking app concept.AssemblyInfo.cs
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Simple banking app concept.csproj.CoreCompileInputs.cache
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Simple banking app concept.dll
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\refint\Simple banking app concept.dll
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Simple banking app concept.pdb
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Simple banking app concept.genruntimeconfig.cache
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\ref\Simple banking app concept.dll
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\RegistrationWindow.baml
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\RegistrationWindow.g.cs
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Dashboard.baml
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Dashboard.g.cs
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Simple banking app concept.csproj.AssemblyReference.cache
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Simple b.E59C26FB.Up2Date
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\ForgotPasswordWindow.baml
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\ForgotPasswordWindow.g.cs
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Simple banking app concept_MarkupCompile.lref
+C:\Users\IC_Ko\OneDrive - ADvTECH Ltd\C# CODE\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\App.baml
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Simple banking app concept.csproj.AssemblyReference.cache
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\ForgotPasswordWindow.baml
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\RegistrationWindow.baml
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\App.baml
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\ForgotPasswordWindow.g.cs
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\RegistrationWindow.g.cs
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Simple banking app concept_MarkupCompile.cache
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Simple banking app concept.dll
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\refint\Simple banking app concept.dll
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Simple banking app concept.pdb
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Dashboard.baml
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Dashboard.g.cs
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\BuyAirtimeWindow.baml
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\BuyDataWindow.baml
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\BuyAirtimeWindow.g.cs
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\BuyDataWindow.g.cs
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\ChangePasswordWindow.baml
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\ChangePasswordWindow.g.cs
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Simple banking app concept.g.resources
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Simple banking app concept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Simple banking app concept.AssemblyInfoInputs.cache
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Simple banking app concept.AssemblyInfo.cs
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Simple banking app concept.csproj.CoreCompileInputs.cache
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\bin\Debug\net8.0-windows\Simple banking app concept.exe
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\bin\Debug\net8.0-windows\Simple banking app concept.deps.json
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\bin\Debug\net8.0-windows\Simple banking app concept.runtimeconfig.json
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\bin\Debug\net8.0-windows\Simple banking app concept.dll
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\bin\Debug\net8.0-windows\Simple banking app concept.pdb
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Simple b.E59C26FB.Up2Date
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\Simple banking app concept.genruntimeconfig.cache
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\ref\Simple banking app concept.dll
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\BuyElectricityWindow.baml
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\TransactionHistoryWindow.baml
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\TransferFundsWindow.baml
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\BuyElectricityWindow.g.cs
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\TransactionHistoryWindow.g.cs
+C:\Users\IC_Ko\OneDrive\Personal projects\Simple banking app concept\Simple banking app concept\obj\Debug\net8.0-windows\TransferFundsWindow.g.cs

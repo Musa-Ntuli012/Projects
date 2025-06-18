@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\registrationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\transferfundswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\transferfundswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\transactionhistorywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\transactionhistorywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\userdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\userdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\transactionhistorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\transactionhistorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\transferfundswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\transferfundswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\forgotpasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\forgotpasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\forgotpasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\forgotpasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\changepasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\changepasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\changepasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\changepasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\buyelectricitywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\buyelectricitywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\buyelectricitywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\buyelectricitywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\buydatawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\buydatawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\buydatawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\buydatawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\buyairtimewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\buyairtimewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\buyairtimewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\buyairtimewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|c:\\users\\ic_ko\\onedrive\\personal projects\\simple banking app concept\\simple banking app concept\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0919C8D-FB72-463F-8C48-5CE60FFBB45A}|Simple banking app concept\\Simple banking app concept.csproj|solutionrelative:simple banking app concept\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\RegistrationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Simple banking app concept\\RegistrationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\RegistrationWindow.xaml.cs",
+              "RelativeToolTip": "Simple banking app concept\\RegistrationWindow.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:10:13.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransferFundsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\TransferFundsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Simple banking app concept\\TransferFundsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\TransferFundsWindow.xaml.cs",
+              "RelativeToolTip": "Simple banking app concept\\TransferFundsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:41:02.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionHistoryWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\TransactionHistoryWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Simple banking app concept\\TransactionHistoryWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\TransactionHistoryWindow.xaml.cs",
+              "RelativeToolTip": "Simple banking app concept\\TransactionHistoryWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:37:19.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Simple banking app concept\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Simple banking app concept\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:09:46.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\UserDatabase.cs",
+              "RelativeDocumentMoniker": "Simple banking app concept\\UserDatabase.cs",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\UserDatabase.cs",
+              "RelativeToolTip": "Simple banking app concept\\UserDatabase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:47:15.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\Dashboard.xaml.cs",
+              "RelativeDocumentMoniker": "Simple banking app concept\\Dashboard.xaml.cs",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\Dashboard.xaml.cs",
+              "RelativeToolTip": "Simple banking app concept\\Dashboard.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:08:49.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.xaml",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\Dashboard.xaml",
+              "RelativeDocumentMoniker": "Simple banking app concept\\Dashboard.xaml",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\Dashboard.xaml",
+              "RelativeToolTip": "Simple banking app concept\\Dashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T02:08:37.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\User.cs",
+              "RelativeDocumentMoniker": "Simple banking app concept\\User.cs",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\User.cs",
+              "RelativeToolTip": "Simple banking app concept\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:10:32.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Simple banking app concept\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\MainWindow.xaml",
+              "RelativeToolTip": "Simple banking app concept\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T02:09:37.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegistrationWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\RegistrationWindow.xaml",
+              "RelativeDocumentMoniker": "Simple banking app concept\\RegistrationWindow.xaml",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\RegistrationWindow.xaml",
+              "RelativeToolTip": "Simple banking app concept\\RegistrationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T02:10:00.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\Transaction.cs",
+              "RelativeDocumentMoniker": "Simple banking app concept\\Transaction.cs",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\Transaction.cs",
+              "RelativeToolTip": "Simple banking app concept\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:10:20.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransactionHistoryWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\TransactionHistoryWindow.xaml",
+              "RelativeDocumentMoniker": "Simple banking app concept\\TransactionHistoryWindow.xaml",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\TransactionHistoryWindow.xaml",
+              "RelativeToolTip": "Simple banking app concept\\TransactionHistoryWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-19T17:36:55.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TransferFundsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\TransferFundsWindow.xaml",
+              "RelativeDocumentMoniker": "Simple banking app concept\\TransferFundsWindow.xaml",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\TransferFundsWindow.xaml",
+              "RelativeToolTip": "Simple banking app concept\\TransferFundsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-19T17:40:33.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ForgotPasswordWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\ForgotPasswordWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Simple banking app concept\\ForgotPasswordWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\ForgotPasswordWindow.xaml.cs",
+              "RelativeToolTip": "Simple banking app concept\\ForgotPasswordWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:09:24.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ForgotPasswordWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\ForgotPasswordWindow.xaml",
+              "RelativeDocumentMoniker": "Simple banking app concept\\ForgotPasswordWindow.xaml",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\ForgotPasswordWindow.xaml",
+              "RelativeToolTip": "Simple banking app concept\\ForgotPasswordWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T02:09:01.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChangePasswordWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\ChangePasswordWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Simple banking app concept\\ChangePasswordWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\ChangePasswordWindow.xaml.cs",
+              "RelativeToolTip": "Simple banking app concept\\ChangePasswordWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:24:06.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChangePasswordWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\ChangePasswordWindow.xaml",
+              "RelativeDocumentMoniker": "Simple banking app concept\\ChangePasswordWindow.xaml",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\ChangePasswordWindow.xaml",
+              "RelativeToolTip": "Simple banking app concept\\ChangePasswordWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T02:21:05.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BuyElectricityWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\BuyElectricityWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Simple banking app concept\\BuyElectricityWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\BuyElectricityWindow.xaml.cs",
+              "RelativeToolTip": "Simple banking app concept\\BuyElectricityWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:39:51.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BuyElectricityWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\BuyElectricityWindow.xaml",
+              "RelativeDocumentMoniker": "Simple banking app concept\\BuyElectricityWindow.xaml",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\BuyElectricityWindow.xaml",
+              "RelativeToolTip": "Simple banking app concept\\BuyElectricityWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-19T17:39:29.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BuyDataWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\BuyDataWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Simple banking app concept\\BuyDataWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\BuyDataWindow.xaml.cs",
+              "RelativeToolTip": "Simple banking app concept\\BuyDataWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T04:30:56.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BuyDataWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\BuyDataWindow.xaml",
+              "RelativeDocumentMoniker": "Simple banking app concept\\BuyDataWindow.xaml",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\BuyDataWindow.xaml",
+              "RelativeToolTip": "Simple banking app concept\\BuyDataWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T02:16:06.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BuyAirtimeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\BuyAirtimeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Simple banking app concept\\BuyAirtimeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\BuyAirtimeWindow.xaml.cs",
+              "RelativeToolTip": "Simple banking app concept\\BuyAirtimeWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T04:31:11.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BuyAirtimeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\BuyAirtimeWindow.xaml",
+              "RelativeDocumentMoniker": "Simple banking app concept\\BuyAirtimeWindow.xaml",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\BuyAirtimeWindow.xaml",
+              "RelativeToolTip": "Simple banking app concept\\BuyAirtimeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T02:16:48.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\App.xaml",
+              "RelativeDocumentMoniker": "Simple banking app concept\\App.xaml",
+              "ToolTip": "C:\\Users\\IC_Ko\\OneDrive\\Personal projects\\Simple banking app concept\\Simple banking app concept\\App.xaml",
+              "RelativeToolTip": "Simple banking app concept\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T02:10:44.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿<Window x:Class="Simple_banking_app_concept.BuyAirtimeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Buy Airtime" Height="300" Width="300">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Width="250">
+            <TextBlock Text="Buy Airtime" FontSize="24" FontWeight="Bold" Margin="0,0,0,20" HorizontalAlignment="Center"/>
+            <TextBlock Text="Amount" Foreground="Gray"/>
+            <TextBox Name="AmountTextBox" Margin="0,0,0,10"/>
+            <Button Content="Buy" Click="BuyButton_Click"/>
+            <TextBlock Name="BuyAirtimeMessageTextBlock" Foreground="Red" TextAlignment="Center"/>
+        </StackPanel>
+    </Grid>
+</Window>

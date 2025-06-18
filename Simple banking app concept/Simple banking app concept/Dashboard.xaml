@@ -1,0 +1,30 @@
+﻿<Window x:Class="Simple_banking_app_concept.Dashboard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:liveCharts="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        Title="Dashboard" Height="600" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Vertical" Margin="10">
+            <TextBlock Name="FirstNameTextBlock" FontSize="24" FontWeight="Bold" Margin="0,0,0,10"/>
+            <TextBlock Name="BalanceTextBlock" FontSize="18" Margin="0,0,0,20"/>
+        </StackPanel>
+
+        <WrapPanel Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10">
+            <Button Content="Buy Airtime" Width="150" Height="100" Margin="10" Click="BuyAirtimeButton_Click"/>
+            <Button Content="Buy Data" Width="150" Height="100" Margin="10" Click="BuyDataButton_Click"/>
+            <Button Content="Buy Electricity" Width="150" Height="100" Margin="10" Click="BuyElectricityButton_Click"/>
+            <Button Content="Transfer Funds" Width="150" Height="100" Margin="10" Click="TransferFundsButton_Click"/>
+            <Button Content="View Transaction History" Width="150" Height="100" Margin="10" Click="ViewTransactionHistoryButton_Click"/>
+            <Button Content="Change Password" Width="150" Height="100" Margin="10" Click="ChangePasswordButton_Click"/>
+            <Button Content="Logout" Width="150" Height="100" Margin="10" Click="LogoutButton_Click"/>
+        </WrapPanel>
+
+        <!-- Add a chart control here -->
+        <liveCharts:CartesianChart Name="BudgetChart" Grid.Row="1" Margin="10" />
+    </Grid>
+</Window>

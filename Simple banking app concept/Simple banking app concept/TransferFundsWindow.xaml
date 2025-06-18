@@ -1,0 +1,16 @@
+﻿<Window x:Class="Simple_banking_app_concept.TransferFundsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Transfer Funds" Height="300" Width="300">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Width="250">
+            <TextBlock Text="Transfer Funds" FontSize="24" FontWeight="Bold" Margin="0,0,0,20" HorizontalAlignment="Center"/>
+            <TextBlock Text="Recipient Username" Foreground="Gray"/>
+            <TextBox Name="RecipientUsernameTextBox" Margin="0,0,0,10"/>
+            <TextBlock Text="Amount" Foreground="Gray"/>
+            <TextBox Name="AmountTextBox" Margin="0,0,0,10"/>
+            <Button Content="Transfer" Click="TransferButton_Click"/>
+            <TextBlock Name="TransferMessageTextBlock" Foreground="Red" TextAlignment="Center"/>
+        </StackPanel>
+    </Grid>
+</Window>
